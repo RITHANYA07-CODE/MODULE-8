@@ -46,7 +46,7 @@ print("Topper is: ", topper, "with marks = ",max)
 ```
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="1230" height="147" alt="Screenshot 2025-10-08 143311" src="https://github.com/user-attachments/assets/8b67e08e-11c9-42d8-a92f-3dc2dc687e1c" />
 
 
 ## RESULT
