@@ -27,10 +27,21 @@ To write a Python program to:
 
 ## 💻  Program
 
-Add Code Here
+```
+n = int(input())
+arr = list(map(int, input().split()))
+arr.sort()
+large=arr[-1]
+arr.reverse()
+for i in range(len(arr)-1):
+    if arr[i+1]<arr[i]:
+        print(arr[i+1])
+        break
+```
 
 ## Output
+<img width="511" height="173" alt="image" src="https://github.com/user-attachments/assets/c1dee613-44d3-4c5f-b77d-20cf49f9776b" />
 
 ## Result
-
+The students with the second lowest grade have been successfully identified.
 
